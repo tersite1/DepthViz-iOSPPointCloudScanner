@@ -15,6 +15,8 @@ With the introduction of the LiDAR sensor in the iPhone 14 Pro, Apple has made t
 
 
 <img width="1052" alt="스크린샷 2024-06-20 오전 1 02 40" src="https://github.com/tersite1/tersite1/assets/160453556/a3d51ee4-f032-4065-95e9-f1abbd1b34b1">
+
+
 ### Point Cloud Scanning
 - **Advanced Scanning**: Use the LiDAR sensor to scan objects and environments, converting them into detailed point clouds.
 - **High Accuracy**: Benefit from the high precision of LiDAR technology combined with camera and IMU data for accurate 3D modeling.
