@@ -5,6 +5,7 @@ DepthViz is an simple Point Cloud Scanner with LiDAR attached on iPhone.
 # DepthViz
 <div align="center">
  <img width="267" alt="스크린샷 2024-06-20 오전 12 18 37" src="https://github.com/tersite1/tersite1/assets/160453556/d3ac5bb1-49e8-4713-95c4-81df1a7a278f">
+ ![ezgif-6-36bb1eedb7](https://github.com/tersite1/tersite1/assets/160453556/08cccf5e-2763-4005-8299-e4865d256547)
 </div>
 
 
@@ -14,9 +15,6 @@ DepthViz is an iOS application designed to function as a point cloud scanner by 
 ## Features
 
 ### Point Cloud Scanning
-![ezgif-6-36bb1eedb7](https://github.com/tersite1/tersite1/assets/160453556/08cccf5e-2763-4005-8299-e4865d256547)
-
-
 - **Advanced Scanning**: Use the LiDAR sensor to scan objects and environments, converting them into detailed point clouds.
 - **High Accuracy**: Benefit from the high precision of LiDAR technology combined with camera and IMU data for accurate 3D modeling.
 
