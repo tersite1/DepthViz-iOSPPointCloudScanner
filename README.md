@@ -78,7 +78,7 @@ To build DepthViz, follow these steps:
 1. **Connect your iPhone**: Connect your iPhone with your Mac using a USB cable.
 2. **Clone this repository**: Open a terminal and run:
     ```bash
-    git clone [repository_url]
+    git clone [https://github.com/tersite1/DepthViz-iOSPPointCloudScanner]
     cd DepthViz
     ```
 3. **Open in Xcode**: Launch Xcode and open the `DepthViz.xcodeproj` file from the cloned repository.
