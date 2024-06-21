@@ -79,6 +79,8 @@ DepthViz offers significant advantages, particularly in the construction industr
 
 
 </div>
+
+
 ## Technical Details
 
 - **Languages**: Swift, Metal, C++
