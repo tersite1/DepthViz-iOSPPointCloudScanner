@@ -1,9 +1,14 @@
 # DepthViz-iOSPPointCloudScanner
-DepthViz is an simple Point Cloud Scanner with LiDAR attached on iPhone.
+
 
 <div align="center">
 
-![KakaoTalk_Photo_2024-06-21-15-49-04](https://github.com/tersite1/tersite1/assets/160453556/30c7a878-2fe8-4ce9-a2d4-9acae0626f61)
+
+
+![DepthViz](https://github.com/tersite1/tersite1/assets/160453556/22ee6303-6314-4efc-881e-060163410171)
+
+#### DepthViz is an simple Point Cloud Scanner with LiDAR attached on iPhone.
+
 
 </div>
 
