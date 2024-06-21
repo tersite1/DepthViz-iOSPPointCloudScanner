@@ -83,8 +83,18 @@ To build DepthViz, follow these steps:
 
 ## Contact
 
-For inquiries, support, or feedback, please contact us at: itcouldbe00@yonsei.ac.kr
+For inquiries, support, or feedback, please contact us at: itcouldbe0@yonsei.ac.kr
 
 ## Ownership
 
 DepthViz is owned and maintained by Construction Management Group 9, dedicated to providing advanced tools for modern construction needs.
+
+### Contributors 
+
+Construction Manamegement Group 9 
+
+* Minsuk Jang
+* Dongkyu Lee
+* Sugyeon Lee
+* Jongjun Lee
+* Juhee Lee
