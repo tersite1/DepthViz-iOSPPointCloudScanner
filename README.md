@@ -1,4 +1,3 @@
-# DepthViz-iOSPPointCloudScanner
 
 
 <div align="center">
