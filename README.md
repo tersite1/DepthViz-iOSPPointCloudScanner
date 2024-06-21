@@ -62,6 +62,8 @@ DepthViz offers significant advantages, particularly in the construction industr
 
 ## Use Cases
 
+<img width="506" alt="스크린샷 2024-06-21 오후 5 05 41" src="https://github.com/tersite1/tersite1/assets/160453556/e14ead8f-2569-48a1-912b-5ea3b5e7bd39">
+
 - **Construction Management**: Supervisors and project managers can keep track of site developments and ensure compliance with project timelines and specifications.
 - **Architectural Design**: Architects can create accurate models of existing structures and integrate them into their design process.
 - **Surveying and Mapping**: Surveyors can quickly capture detailed terrain and structural information, improving the accuracy of their work.
