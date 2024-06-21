@@ -104,16 +104,13 @@ To build DepthViz, follow these steps:
 
 
 
-<div align="center">
+<p align="center">  <img src="https://github.com/tersite1/tersite1/assets/160453556/90472415-fae1-429b-90d2-edd2e4019085" align="center" width="32%">&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;  <img src="https://github.com/tersite1/tersite1/assets/160453556/397fc703-31ca-417a-9e95-6dd088dd1f37") align="center" width="32%">  <figcaption align="center">
 
 
 
 
-![ezgif-4-5fd005570d](https://github.com/tersite1/tersite1/assets/160453556/410c2b04-94e8-4658-b051-b0d11eb51f8c)
 
 
-
-</div>
 
 
 ## Contact
