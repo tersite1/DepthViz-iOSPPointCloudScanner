@@ -62,6 +62,8 @@ DepthViz offers significant advantages, particularly in the construction industr
 
 ## Use Cases
 
+
+
 <img width="506" alt="스크린샷 2024-06-21 오후 5 05 41" src="https://github.com/tersite1/tersite1/assets/160453556/e14ead8f-2569-48a1-912b-5ea3b5e7bd39">
 
 - **Construction Management**: Supervisors and project managers can keep track of site developments and ensure compliance with project timelines and specifications.
@@ -86,6 +88,22 @@ To build DepthViz, follow these steps:
 3. **Open in Xcode**: Launch Xcode and open the `DepthViz.xcodeproj` file from the cloned repository.
 4. **Build the project**: Ensure your device is selected, then click the "Build and Run" button in Xcode.
 5. **Verify device compatibility**: Make sure your iPhone is a model with a LiDAR sensor (iPhone 14 Pro or newer).
+
+## PLY file Output Example
+
+
+
+<div align="center">
+
+
+
+
+![ezgif-4-5fd005570d](https://github.com/tersite1/tersite1/assets/160453556/410c2b04-94e8-4658-b051-b0d11eb51f8c)
+
+
+
+</div>
+
 
 ## Contact
 
