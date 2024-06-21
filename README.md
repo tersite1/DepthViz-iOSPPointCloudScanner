@@ -6,7 +6,7 @@
 
 ![DepthViz](https://github.com/tersite1/tersite1/assets/160453556/22ee6303-6314-4efc-881e-060163410171)
 
-#### DepthViz is an simple Point Cloud Scanner with LiDAR attached on iPhone.
+#### DepthViz is Simple Point Cloud Scanner with LiDAR attached on iPhone.
 
 
 </div>
