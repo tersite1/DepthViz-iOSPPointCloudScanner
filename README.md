@@ -127,6 +127,6 @@ Construction Manamegement Group 9
 
 * Minsuk Jang
 * Dongkyu Lee
-* Sugyeon Lee
+* Sugyeom Lee
 * Jongjun Lee
 * Juhee Lee
