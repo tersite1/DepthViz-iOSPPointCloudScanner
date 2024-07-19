@@ -94,8 +94,9 @@ To build DepthViz, follow these steps:
 2. **Clone this repository**: Open a terminal and run:
     ```bash
     git clone https://github.com/tersite1/DepthViz-iOSPPointCloudScanner
-    cd DepthViz
+    mkdir DepthViz && cd DepthViz
     ```
+    and copy paste all the contents to /Depthviz folder without DepthViz.xcodeproj
 3. **Open in Xcode**: Launch Xcode and open the `DepthViz.xcodeproj` file from the cloned repository.
 4. **Build the project**: Ensure your device is selected, then click the "Build and Run" button in Xcode.
 5. **Verify device compatibility**: Make sure your iPhone is a model with a LiDAR sensor (iPhone 14 Pro or newer).
