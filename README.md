@@ -135,8 +135,3 @@ DepthViz is owned and maintained by Construction Management Group 9, dedicated t
 
 Construction Manamegement Group 9 
 
-* Minsuk Jang
-* Dongkyu Lee
-* Sugyeom Lee
-* Jongjun Lee
-* Juhee Lee
