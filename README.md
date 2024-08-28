@@ -9,10 +9,7 @@
 #### DepthViz is Simple Point Cloud Scanner with LiDAR attached on iPhone.
 
 
-</div>
 
-
-https://github.com/user-attachments/assets/39453a31-8d5f-427f-bbe0-471788eb5cf4
 
 
 
