@@ -130,9 +130,14 @@ For inquiries, support, or feedback, please contact us at: itcouldbe0@yonsei.ac.
 
 ## Ownership
 
-DepthViz is owned and maintained by Construction Management Group 9, dedicated to providing advanced tools for modern construction needs.
+DepthViz is owned and maintained by FluXmap, dedicated to providing advanced tools for modern construction needs. All Rights Reserved
 
 ### Contributors 
 
 FluXmap
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may not use this software for commercial purposes. For more information, please refer to the LICENSE file.
+
 
